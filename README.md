@@ -1,0 +1,1 @@
+The purpose of this project is to design an 8-bit ripple carry adder in Electric software, which adds two 8-bit numbers. The adder consists of eight 1-bit full adders in sequence, with each carry-out connected to the carry-in of the next adder. This setup creates a ripple effect as the carry bit propagates from the least significant to the most significant bit.
